@@ -52,7 +52,7 @@ class Client implements ClientInterface
     }
 
     /**
-     * sends your notification to the google servers and returns a guzzle repsonse object
+     * sends your notification to the google servers and returns a guzzle response object
      * containing their answer.
      *
      * @param Message $message
